@@ -231,19 +231,19 @@ Las figuras de ejemplo se incluyen en la carpeta `figures/`.
 
 ### Panel de precipitación diaria
 
-![Panel de precipitación diaria](figures/Primeros 12 dias.png)
+![Panel de precipitación diaria](figures/01_panel_pisco)
 
 ### Celdas consideradas por intersección
 
-![Celdas consideradas](figures/Celdas consideradas.png)
+![Celdas consideradas](figures/02_celdas_consideradas.png)
 
 ### Fracciones de celda usadas en el promedio areal
 
-![Fracciones de celda](figures/Fracciones de celdas usadas para promedio.png)
+![Fracciones de celda](figures/03_fracciones_celda.png)
 
 ### Serie mensual de precipitación media areal
 
-![Serie mensual](figures/Precipitacion mensual.png)
+![Serie mensual](figures/04_serie_mensual.png)
 
 > Si las imágenes no se visualizan, revisar que los nombres de los archivos dentro de la carpeta `figures/` coincidan con los nombres usados en este README.
 
